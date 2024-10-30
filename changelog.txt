@@ -1,0 +1,29 @@
+2024-08-08 - version 2.1.0
+* Improvements to "Pay with card"
+* Support for Woo Commerce High-Performance Order Storage
+
+2024-03-26 - version 2.0.2
+* Fix Woo Commerce blocks flow issue
+
+2024-02-05 - version 2.0.1
+* Update documentation
+
+2024-01-30 - version 2.0.0
+* Using new Helio checkout embed.
+* Must be using a Pay Link with USDC as pricing currency.
+* Swaps and multi currency / blockchains now supported.
+
+2023-10-19 - version 1.2.1
+* Change prepare transaction payload
+
+2023-10-02 - version 1.2.0
+* Add multi currency support
+
+2023-10-01 - version 1.1.0
+* Add WooCommerce checkout support
+
+2023-06-19 - version 1.0.8
+* Stylise settings page
+
+2023-02-13 - version 1.0.1
+* Initial release

@@ -1,0 +1,18 @@
+textarea {
+    max-width: 400px;
+}
+
+form img {
+    width: 79px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+#wpbody {
+    background-color: #F5F7FA;
+}
+
+input, textarea, select {
+    border: 0.8px solid #CED4DA !important;
+    border-radius: 2px !important;
+}
